@@ -12,4 +12,7 @@ This will be a website for selling sneakers. Several functions will be implement
 -CBV, FBV, ViewSet used
 -Admins can edit data
 
+# Class Diagram
+https://drive.google.com/file/d/1igej5P2HFHZwPHj9ipbQgUuagSxUZKn5/view?usp=sharing
+
 Owner: Dias Bagzat diasbagzat@gmail.com
